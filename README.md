@@ -40,7 +40,12 @@ Têm-se dois python notebooks no repositório. O arquivo "mapa.ipynb" contém as
 
 ## Principais resultados das análises
 
-Têm-se dois python notebooks no repositório. O arquivo "mapa.ipynb" contém as análises que permitem visualizar sobre o mapa da cidade as estações e o volume de uso de cada. O arquivo "shared_bikes.ipynb" contém todas as demais análises. 
+### Utilização dos diferentes tipos de bicicletas ao longo dos meses
 
-## Utilização dos diferentes tipos de bicicletas ao longo dos meses
+![types_months](https://user-images.githubusercontent.com/88217999/170534010-a0c9c612-63b7-4021-8be2-754697fd22b8.png)
 
+Há uma forte variação sazonal no uso das bicicletas. Como esperado, o uso das bicicletas tem forte queda nos meses de inverno no emisfério norte. 
+
+Um outro ponto interessante é que a queda relativa é menor para as bicicletas elétricas. Nos meses de janeiro e fevereiro o número de aluguéis dessas bicicletas parece bastante próximo das bicicletas clássicas, enquanto que nos meses de verão as clássicas representam uma fração consideravelmente maior. 
+
+### Utilização das bicicletas de acordo com o dia da semana
