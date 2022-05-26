@@ -87,3 +87,5 @@ Assim como o número de compartilhamentos varia com os meses do ano, também obs
 ![media_mediana_nao_agregado](https://user-images.githubusercontent.com/88217999/170545060-a12925fa-dc28-4489-922a-a9ec8fd953ea.png)
 
 O comportamento da média das bicicletas ancoradas não segue o comportamento geral visto. Existe um pico bastante acentuado em janeiro, provavelmente ocasionado por poucos compartilhamentos com longa duração. A mediana das bicicletas ancoradas tem um comportamento mais regular com maiores valores no verão e valores menores no inverno, assim como os outros tipos.
+
+### Uso das estações
