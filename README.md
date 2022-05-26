@@ -93,3 +93,6 @@ O comportamento da média das bicicletas ancoradas não segue o comportamento ge
 ![estacoes_inicio](https://user-images.githubusercontent.com/88217999/170546043-04a8b2df-318e-4e70-b087-b54bdc5a73c7.png)
 
 A estação "Streeter Dr & Grand Ave" é de longe a estação com o maior número de partidas. 
+
+![estacoes_fim](https://user-images.githubusercontent.com/88217999/170546394-69b85968-2a7f-4069-b170-9b059b88d1b5.png)
+
