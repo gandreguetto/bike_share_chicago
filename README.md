@@ -104,3 +104,4 @@ Os trajetos mais frequentes são trajetos em maior parte com o mesmo início e f
 
 Por outro lado, o número de trajetos com mesmo início e fim é uma parcela pequena da totalidade dos compartilhamentos. Se apenas os dados que contém os nomes das estações de início e fim são mantidos temos apenas 332946 trajetos com mesmo início e fim e 4308449 trajetos entre estações diferentes.
 
+### Visualização da distribuição geográfica e uso das estações
