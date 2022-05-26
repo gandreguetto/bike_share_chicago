@@ -96,4 +96,11 @@ A estação "Streeter Dr & Grand Ave" é de longe a estação com o maior númer
 
 ![estacoes_fim](https://user-images.githubusercontent.com/88217999/170546394-69b85968-2a7f-4069-b170-9b059b88d1b5.png)
 
+Abaixo, os trajetos ("Estação inicial - Estação final") mais frequentes são exibidos.
+
 ![trajetos](https://user-images.githubusercontent.com/88217999/170546985-e752d75a-8924-4f85-8e8e-a67d5d0d26e4.png)
+
+Os trajetos mais frequentes são trajetos em maior parte com o mesmo início e fim. 
+
+Por outro lado, o número de trajetos com mesmo início e fim é uma parcela pequena da totalidade dos compartilhamentos. Se apenas os dados que contém os nomes das estações de início e fim são mantidos temos apenas 332946 trajetos com mesmo início e fim e 4308449 trajetos entre estações diferentes.
+
