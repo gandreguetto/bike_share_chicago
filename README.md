@@ -96,3 +96,4 @@ A estação "Streeter Dr & Grand Ave" é de longe a estação com o maior númer
 
 ![estacoes_fim](https://user-images.githubusercontent.com/88217999/170546394-69b85968-2a7f-4069-b170-9b059b88d1b5.png)
 
+![trajetos](https://user-images.githubusercontent.com/88217999/170546985-e752d75a-8924-4f85-8e8e-a67d5d0d26e4.png)
