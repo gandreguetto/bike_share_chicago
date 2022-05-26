@@ -81,3 +81,7 @@ Há uma marcante diferença nos tempos de uso das bicicletas ancoradas. As bicic
 ![media_mediana_agregado](https://user-images.githubusercontent.com/88217999/170544335-493ca201-5e54-41b6-9826-7d5e44a78508.png)
 
 A duração média dos compartilhamentos é mais de 10 minutos mais curta no inverno do que no verão. A mediana também tem valor reduzido no inverno.
+
+#### Variação da média e mediana para cada tipo de bicicleta
+
+
