@@ -61,3 +61,13 @@ Para todos os tipos o dia da semana com o maior número de compartilhamentos é 
 As bicicletas ancoradas são utilizadas somente por usuários casuais. A quantidade de compartilhamentos por membros das bicicletas clássicas e elétricas é maior do que a de usuários casuais, porém, os dados indicam que o sistema é amplamente utilizado por não membros.
 
 ### Durações dos compartilhamentos
+
+#### Distribuição com todos os tipos de bicicletas agregados 
+
+![duracao_agregado](https://user-images.githubusercontent.com/88217999/170541733-90320d32-6e34-45d1-984c-9f3e33f0131a.png)
+
+A distribuição é assimétrica à direita. A maioria dos compartilhamentos tem breve duração mas há vários registros de compartilhamentos mais longos.
+
+O tempo médio de compartilhamento é 21.54 minutos e a mediana é 11.72 minutos.
+
+#### Distribuições para cada tipo de bicicleta
