@@ -71,3 +71,9 @@ A distribuição é assimétrica à direita. A maioria dos compartilhamentos tem
 O tempo médio de compartilhamento é 21.54 minutos e a mediana é 11.72 minutos.
 
 #### Distribuições para cada tipo de bicicleta
+
+![duracao_nao_agregado](https://user-images.githubusercontent.com/88217999/170542548-85ea13c7-868e-4278-a2cf-bc9e2611d276.png)
+
+Há uma marcante diferença nos tempos de uso das bicicletas ancoradas. As bicicletas clássicas e elétricas apresentam distribuições semelhantes com médias e medianas relativamente próximas entre si mas muito menores do que a média e mediana das bicicletas ancoradas.
+
+#### Variação da média e mediana com os tipos de bicicletas agregados
