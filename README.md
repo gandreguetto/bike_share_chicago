@@ -89,3 +89,7 @@ Assim como o número de compartilhamentos varia com os meses do ano, também obs
 O comportamento da média das bicicletas ancoradas não segue o comportamento geral visto. Existe um pico bastante acentuado em janeiro, provavelmente ocasionado por poucos compartilhamentos com longa duração. A mediana das bicicletas ancoradas tem um comportamento mais regular com maiores valores no verão e valores menores no inverno, assim como os outros tipos.
 
 ### Uso das estações
+
+![estacoes_inicio](https://user-images.githubusercontent.com/88217999/170546043-04a8b2df-318e-4e70-b087-b54bdc5a73c7.png)
+
+A estação "Streeter Dr & Grand Ave" é de longe a estação com o maior número de partidas. 
