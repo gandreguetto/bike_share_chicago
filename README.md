@@ -4,7 +4,7 @@
 
 #### Sobre os dados
 
-Nesse projeto dados sobre o compartilhamento de bicicletas na cidade de Chicago são analisados. Os dados foram obtidos do Kaggle (https://www.kaggle.com/datasets/evangower/cyclistic-bike-share). Esses dados também são utilizados como um caso de estudo do curso Google Data Analytics do Coursera, que eu não cursei.
+Nesse projeto, dados do sistema de compartilhamento de bicicletas da cidade de Chicago são analisados. Os dados foram obtidos do Kaggle (https://www.kaggle.com/datasets/evangower/cyclistic-bike-share) e também são utilizados como um caso de estudo do curso Google Data Analytics do Coursera.
 
 #### O período de coleta
 
@@ -30,6 +30,14 @@ Por fim, os dados discriminam se um usuário é casual ou membro. Novamente, nã
 
 #### Análises e Insights
 
-A seguir, uma análise detalhada desses dados é realizada.  Em especial, será explorado como a utilização das bicicletas varia ao longo do ano, como se comporta a distribuição dos tempos de utilização nos dados, quais são as estações mais utilizadas, etc.
+A seguir, uma análise detalhada desses dados é realizada.  Em especial, será explorado como a utilização das bicicletas varia ao longo do ano, como se comporta a distribuição dos tempos de utilização nos dados e quais são as estações mais utilizadas.
 
 Os resultados obtidos nas análises realizadas fornecem uma riquíssima fonte de informações úteis para serem aplicadas na administração do sistema. Por exemplo, a variação no uso ao longo do ano indica a melhor época do ano para realizar manutenções nas bicicletas. A distribuição do tempo de uso, por outro lado, pode ser utilizada na precificação dos serviços. Também, as informações sobre a utilização das diferentes estações pode auxiliar na distribuição e relocação das bicicletas.
+
+## Os arquivos do repositório
+
+Têm-se dois python notebooks no repositório. O arquivo "mapa.ipynb" contém as análises que permitem visualizar sobre o mapa da cidade as estações e o volume de uso de cada. O arquivo "shared_bikes.ipynb" contém todas as demais análises. 
+
+## Principais resultados das análises
+
+Têm-se dois python notebooks no repositório. O arquivo "mapa.ipynb" contém as análises que permitem visualizar sobre o mapa da cidade as estações e o volume de uso de cada. O arquivo "shared_bikes.ipynb" contém todas as demais análises. 
