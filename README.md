@@ -48,4 +48,10 @@ Há uma forte variação sazonal no uso das bicicletas. Como esperado, o uso das
 
 Um outro ponto interessante é que a queda relativa é menor para as bicicletas elétricas. Nos meses de janeiro e fevereiro o número de aluguéis dessas bicicletas parece bastante próximo das bicicletas clássicas, enquanto que nos meses de verão as clássicas representam uma fração consideravelmente maior. 
 
-### Utilização das bicicletas de acordo com o dia da semana
+#### Utilização das bicicletas de acordo com o dia da semana
+
+![week_days](https://user-images.githubusercontent.com/88217999/170535355-f0fcaa3b-812b-4ad5-96e5-a7fb811e9f44.png)
+
+Para todos os tipos o dia da semana com o maior número de compartilhamentos é sábado. Porém, essa variação é bem suave para as bicicletas elétricas e um pouco mais acentuada para as clássicas e ancoradas. 
+
+#### Utilização por usuários casuais e membros
