@@ -1,4 +1,4 @@
-# Compartilhamento de bicicletas na cidade de Chicago - Estados Unidos
+# Sistema de compartilhamento de bicicletas na cidade de Chicago - Estados Unidos
 
 ## Introdução
 
