@@ -41,3 +41,6 @@ Têm-se dois python notebooks no repositório. O arquivo "mapa.ipynb" contém as
 ## Principais resultados das análises
 
 Têm-se dois python notebooks no repositório. O arquivo "mapa.ipynb" contém as análises que permitem visualizar sobre o mapa da cidade as estações e o volume de uso de cada. O arquivo "shared_bikes.ipynb" contém todas as demais análises. 
+
+## Utilização dos diferentes tipos de bicicletas ao longo dos meses
+
