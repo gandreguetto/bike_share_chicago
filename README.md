@@ -46,7 +46,7 @@ Têm-se dois python notebooks no repositório. O arquivo "mapa.ipynb" contém as
 
 Há uma forte variação sazonal no uso das bicicletas. Como esperado, o uso das bicicletas tem forte queda nos meses de inverno no emisfério norte. 
 
-Um outro ponto interessante é que a queda relativa é menor para as bicicletas elétricas. Nos meses de janeiro e fevereiro o número de aluguéis dessas bicicletas parece bastante próximo das bicicletas clássicas, enquanto que nos meses de verão as clássicas representam uma fração consideravelmente maior. 
+Um outro ponto interessante é que a queda relativa é menor para as bicicletas elétricas. Nos meses de janeiro e fevereiro o número de auéis dessas bicicletas parece bastante próximo das bicicletas clássicas, enquanto que nos meses de verão as clássicas representam uma fração consideravelmente maior. 
 
 ### Utilização das bicicletas de acordo com o dia da semana
 
@@ -58,4 +58,6 @@ Para todos os tipos o dia da semana com o maior número de compartilhamentos é 
 
 ![membros_casual](https://user-images.githubusercontent.com/88217999/170536202-a26ceafe-2c48-4300-8945-5a8a72dbe07e.png)
 
+As bicicletas ancoradas são utilizadas somente por usuários casuais. A quantidade de compartilhamentos por membros das bicicletas clássicas e elétricas é maior do que a de usuários casuais, porém, os dados indicam que o sistema é amplamente utilizado por não membros.
 
+### Durações dos compartilhamentos
