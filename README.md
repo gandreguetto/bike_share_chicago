@@ -110,3 +110,4 @@ Por outro lado, o número de trajetos com mesmo início e fim é uma parcela peq
 
 ![mapa_zoom1](https://user-images.githubusercontent.com/88217999/170555114-9865f0f5-5ce4-4601-a66c-da86831f4273.png)
 
+![mapa_zoom2](https://user-images.githubusercontent.com/88217999/170555309-615112d2-f3b0-4ded-969a-fe69413fc77f.png)
