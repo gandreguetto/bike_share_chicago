@@ -107,3 +107,6 @@ Por outro lado, o número de trajetos com mesmo início e fim é uma parcela peq
 ### Visualização da distribuição geográfica e uso das estações
 
 ![mapa](https://user-images.githubusercontent.com/88217999/170554871-08d61397-728e-41a2-820d-e8e9fb7a31ee.png)
+
+![mapa_zoom1](https://user-images.githubusercontent.com/88217999/170555114-9865f0f5-5ce4-4601-a66c-da86831f4273.png)
+
