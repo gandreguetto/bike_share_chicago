@@ -77,3 +77,7 @@ O tempo médio de compartilhamento é 21.54 minutos e a mediana é 11.72 minutos
 Há uma marcante diferença nos tempos de uso das bicicletas ancoradas. As bicicletas clássicas e elétricas apresentam distribuições semelhantes com médias e medianas relativamente próximas entre si mas muito menores do que a média e mediana das bicicletas ancoradas.
 
 #### Variação da média e mediana com os tipos de bicicletas agregados
+
+![media_mediana_agregado](https://user-images.githubusercontent.com/88217999/170544335-493ca201-5e54-41b6-9826-7d5e44a78508.png)
+
+A duração média dos compartilhamentos é mais de 10 minutos mais curta no inverno do que no verão. A mediana também tem valor reduzido no inverno.
