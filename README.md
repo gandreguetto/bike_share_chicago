@@ -32,7 +32,7 @@ Por fim, os dados discriminam se um usuário é casual ou membro. Novamente, nã
 
 A seguir, uma análise detalhada desses dados é realizada.  Em especial, será explorado como a utilização das bicicletas varia ao longo do ano, como se comporta a distribuição dos tempos de utilização nos dados e quais são as estações mais utilizadas.
 
-Os resultados obtidos nas análises realizadas fornecem uma riquíssima fonte de informações úteis para serem aplicadas na administração do sistema. Por exemplo, a variação no uso ao longo do ano indica a melhor época do ano para realizar manutenções nas bicicletas. A distribuição do tempo de uso, por outro lado, pode ser utilizada na precificação dos serviços. Também, as informações sobre a utilização das diferentes estações pode auxiliar na distribuição e relocação das bicicletas.
+Os resultados obtidos nas análises realizadas fornecem uma riquíssima fonte de informações úteis para serem aplicadas na administração do sistema. Por exemplo, a variação no uso ao longo do ano indica a melhor época do ano para realizar manutenções nas bicicletas. A distribuição do tempo de uso, por outro lado, pode ser utilizada na precificação dos serviços. Também, as informações sobre a utilização das diferentes estações pode auxiliar na distribuição e realocação das bicicletas.
 
 ## Os arquivos do repositório
 
